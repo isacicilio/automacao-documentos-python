@@ -140,8 +140,8 @@ Os arquivos organizados aparecerão em `data/saida/`, e o registro da execução
 
 ## 👩‍💻 Autora
 
-Desenvolvido por **Isabela Cicílio**
-[GitHub](https://github.com/isacicilio) · [LinkedIn](https://www.linkedin.com/)
+Desenvolvido por **Isa Cicílio**
+[GitHub](https://github.com/isacicilio) · [LinkedIn](www.linkedin.com/in/isacicilio)
 
 ---
 
